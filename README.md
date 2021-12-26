@@ -14,7 +14,9 @@
 [![codecov](https://codecov.io/gh/kolkov/angular-editor/branch/master/graph/badge.svg)](https://codecov.io/gh/kolkov/angular-editor)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AndreyKolkov)
 
-A simple native WYSIWYG/Rich Text editor for Angular 6-10+
+A simple native WYSIWYG/Rich Text editor for Angular 6-10+  
+This repository is a fork of a fork, intention is to take a single change made by Yashiru that wasn't merged onto the main repo.  
+Thanks to @kolkov and @Yashiru for their contributions.
 
 ![Nov-27-2019 17-26-29](https://user-images.githubusercontent.com/216412/69763434-259cd800-113b-11ea-918f-0565ebce0e48.gif)
 
